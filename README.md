@@ -1,3 +1,2 @@
-# NTRBoot-Source
-This is just for hosting my custom NTRBoot setup from Github Pages
-I would make this private but I don't feel like getting a pro account just for this.
+# [My website](https://sirnapkin1334.github.io)
+Just the source. My custom NTRBoot data is also stored here (ntr.7z).
