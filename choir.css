@@ -1,0 +1,8 @@
+body {
+	background-color: lightblue;
+}
+h1 {
+	bold-text: true;
+	margin-left: 20px;
+	text-color: purple;
+}
