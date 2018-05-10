@@ -3,6 +3,6 @@ body {
 }
 h1 {
 	bold-text: true;
-	margin-left: 20px;
-	text-color: purple;
+	margin-left: 200px;
+	color: dark-purple;
 }
