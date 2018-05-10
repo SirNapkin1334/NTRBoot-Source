@@ -4,5 +4,11 @@ body {
 h1 {
 	bold-text: true;
 	margin-left: 200px;
-	color: dark-purple;
+	color: darkpurple;
+}
+p {
+	margin-left: 30px;
+}
+footer {
+	text-size: 10pt;
 }
