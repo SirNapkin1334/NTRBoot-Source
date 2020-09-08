@@ -4,7 +4,7 @@
 
 ### Hello. My name is SirNapkin1334
 I'm a 15-year-old developer from California.
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/></br>
 <details>
   <summary>Quick Facts</summary><br/>
   
