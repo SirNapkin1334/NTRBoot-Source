@@ -1,10 +1,7 @@
-<!-- Use spoilers to add categories. 1st category with spoilers, small general information. then info about me, then stats (with the fancy image things), and then superlatives -->
-<!--suppress HtmlDeprecatedAttribute -->
-<img align="left" alt="Avatar" width="200px" src="https://avatars2.githubusercontent.com/u/31591796" />
-
 ### Hello. My name is SirNapkin1334
 I'm a 15-year-old developer from California.
-<br/><br/><br/><br/><br/><br/></br>
+<br/><br/>
+<!--suppress HtmlDeprecatedAttribute -->
 <details>
   <summary>Quick Facts</summary><br/>
   
