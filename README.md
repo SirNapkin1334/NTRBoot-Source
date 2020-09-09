@@ -5,11 +5,11 @@ I'm a 15-year-old developer from California.
 <details>
   <summary>Quick Facts</summary><br/>
   
-  * Pronouns: he/him
-  * Birthday: SirNapkin1334
-  * I am a duel citizen of the United States and Germany.
-  * I *hate* Unicode emojis.  
-  *more coming soon once I have ideas*
+  * Gender / Sexuality: Straight Male
+  * Birthday: 2005-06-24
+  * I am a dual citizen of the United States and Germany.
+  * I *hate* Unicode emojis.
+  * I've not been diagnosed, but I'm fairly certain I have ADHD and Dyslexia.
   
 </details> 
 
@@ -43,9 +43,9 @@ I'm a 15-year-old developer from California.
   * Shell: fish
   
   <details>
-    <summary>Obligatory Neofetch</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>Neofetch</summary>
     
-  <img align="left" alt="Obligatory Neofetch" src="https://raw.githubusercontent.com/SirNapkin1334/SirNapkin1334/profile/assets/obligatory_neofetch.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="Neofetch" src="https://raw.githubusercontent.com/SirNapkin1334/SirNapkin1334/profile/assets/obligatory_neofetch.png" />
     <br>
   </details>
   
@@ -57,7 +57,7 @@ I'm a 15-year-old developer from California.
   
   <img alt="GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=SirNapkin1334&show_icons=true&theme=radical&count_private=true&title_color=fff"/>
   <br/>
-  <img alt="Language Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNapkin1334&theme=dark&layout=compact"/>
+  <img alt="GitHub Language Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNapkin1334&theme=dark&layout=compact"/>
   <br/>
   <img alt="WakaTime Stats" width="400px" src="https://wakatime.com/share/@d51ee7f5-180e-4df5-bd67-4a1d46850e7a/fcd25c09-366d-4602-a455-e2f705c244c5.svg"/>
   
@@ -66,13 +66,13 @@ I'm a 15-year-old developer from California.
 <details>
   <summary>Superlatives</summary><br/>
   
-  * Music:
-    * In general, I like Rock and dislike Pop.
-    * Favorite bands: They Might be Giants & Green Day
-  * Food:
-    * Like: Mexican, Asian, German
-    * Dislike: anything spicy
   * Favorite:
+    * Music:
+      * In general, I like Rock and dislike Pop.
+      * Favorite bands: They Might be Giants & Green Day
+    * Food:
+      * Like: Mexican, Asian, German
+      * Dislike: anything spicy
     * License: GPLv3
     * Voting System: Plural voting
     * Color: Purple
@@ -82,11 +82,12 @@ I'm a 15-year-old developer from California.
     * DNS Root Server Cluster: L
     * Letter: h
     * Time of day: T̴̡̬̖̫͇̀̓̾h̸͎̣̏̑̔́ͅȩ̵̓̈́̇̉͝ ̸̨͎͕͔̃̈̎́̚W̸̨̥̯̤̔͑i̸͖͔̙̥͊̇t̶̯͌c̵̬͆̾̌̀h̴̪̠̲̐̃̃i̶̼̳̝̹͎͑̆n̷̥͒̈́g̵̙͎̕͜͝ ̷̪̐̅̐͘H̵̗̦̳̅̊̇o̴͎̾̚ͅů̶̘͂̂r̴̛͚̝͇̯͛͘͘
-    * Force: Electromagnetic
-    * Condiment for corn chips: Guacamole
+    * Force: Electromagnetic\
     * Alloy: Nb-Ti
+    * Date/Time Format: ISO 8601
+    * Regex Engine: Python `regex` module
   
-  *Contact me if you have more!*
+  *Contact me if you have more ideas!*
     
 </details>
 
