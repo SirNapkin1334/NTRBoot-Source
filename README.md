@@ -9,7 +9,6 @@ I'm a 15-year-old developer from California.
   * Birthday: 2005-06-24
   * I am a dual citizen of the United States and Germany.
   * I *hate* Unicode emojis.
-  * I've not been diagnosed, but I'm fairly certain I have ADHD and Dyslexia.
   
 </details> 
 
@@ -17,7 +16,7 @@ I'm a 15-year-old developer from California.
   <summary>Current Projects</summary><br/>
   
   * [A library implementing dynamic control flow statements in Java](https://github.com/SirNapkin1334/DynamicControl)
-  * [Multi-Server support for Sk1er AutoGG](https://github.com/SirNapkin1334/AutoGG)
+  * [Various Improvements to the Hytilities Mod](https://github.com/SirNapkin1334/Hytilities)
   * [Balkon, the moderation and utility Discord bot written in Java with JDA](https://github.com/SirNapkin1334/Balkon)
   * SocietyOverseer Discord.py bot, written with [Proudmuslim](https://github.com/Proudmuslim) (Closed-Source)
   
@@ -44,7 +43,7 @@ I'm a 15-year-old developer from California.
   
   <details>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>Neofetch</summary>
-    
+    <!-- i'm sorry -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" alt="Neofetch" src="https://raw.githubusercontent.com/SirNapkin1334/SirNapkin1334/profile/assets/obligatory_neofetch.png" />
     <br>
   </details>
@@ -99,3 +98,24 @@ I'm a 15-year-old developer from California.
   * Twitter: @SirNapkin1334
   
 </details>
+
+<details>
+  <summary>Special Thanks</summary><br/>
+  
+  I don't really like the term "idol" so I prefer to use "Special Thanks", so, in no particular order, Special Thanks to: 
+  
+  * [asbyth](https://github.com/asbyth)
+  * [FalseHonesty](https://github.com/FalseHonesty)
+  * [Matt](https://github.com/mattco98)
+  * [LlamaLad7](https://github.com/LlamaLad7)
+  * [DJTheRedstoner](https://github.com/DJTheRedstoner)
+  * [littlemissantivirus](https://github.com/littlemissantivirus)
+  * [solonovamax](https://github.com/solonovamax)
+  * [Noctember](https://github.com/Noctember)
+  * [Chachy](https://github.com/ChachyDev)
+  * [d0k3](https://github.com/d0k3) 
+  
+  I've most certainly forgotten some people, apologies if I did.
+  
+</details>
+
