@@ -68,7 +68,7 @@ I'm a 15-year-old developer from California.
   * Favorite:
     * Music:
       * In general, I like Rock and dislike Pop.
-      * Favorite bands: They Might be Giants & Green Day
+      * Favorite bands: They Might be Giants, Green Day, DragonForce
     * Food:
       * Like: Mexican, Asian, German
       * Dislike: anything spicy
