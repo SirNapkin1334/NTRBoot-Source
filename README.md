@@ -94,7 +94,7 @@ I'm a 15-year-old developer from California.
   <summary>Contact Me</summary><br/>
   
   * Email: sirnapkin@protonmail.com
-  * Discord: @SirNapkin1334#7960
+  * Discord: @SirNapkin1334#7960 CURRENTLY DISABLED - contact me on `Moiré#8248`
   * Twitter: @SirNapkin1334
   
 </details>
