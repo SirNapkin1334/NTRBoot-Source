@@ -85,6 +85,15 @@ I'm a 15-year-old developer from California.
     * Alloy: Nb-Ti
     * Date/Time Format: ISO 8601
     * Regex Engine: Python `regex` module
+    * Discord Library: `discord.py`
+    * Minecraft GUI Libraries for 1.8: Elementa
+    * Minecraft Version: 1.8
+    * Minecraft Client: Hyperium 0.23
+    * Minecraft Gradle Plugin: ForgeGradle
+    * Minecraft Mod: Patcher
+    * ForgeGradle Version: 2.1-SNAPSHOT
+    * Proudest Work: [SmokingEndermen](https://github.com/SirNapkin1334/SmokingEndermen)
+    * Website: https://napkin.tech
   
   *Contact me if you have more ideas!*
     
