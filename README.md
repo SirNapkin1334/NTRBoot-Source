@@ -75,7 +75,7 @@ I'm a 15-year-old developer from California.
     * License: GPLv3
     * Voting System: Plural voting
     * Color: Purple
-    * Shape: Triangle
+    * Shape: Pointed Vertical Incline
     * Search Engine: DuckDuckGo
     * Port: 25565
     * DNS Root Server Cluster: L
