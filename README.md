@@ -18,7 +18,6 @@ I'm a 15-year-old developer from California.
   * [A library implementing dynamic control flow statements in Java](https://github.com/SirNapkin1334/DynamicControl)
   * [Various Improvements to the Hytilities Mod](https://github.com/SirNapkin1334/Hytilities)
   * [Balkon, the moderation and utility Discord bot written in Java with JDA](https://github.com/SirNapkin1334/Balkon)
-  * SocietyOverseer Discord.py bot, written with [Proudmuslim](https://github.com/Proudmuslim) (Closed-Source)
   
 </details>
 
@@ -78,6 +77,7 @@ I'm a 15-year-old developer from California.
     * Shape: Pointed Vertical Incline
     * Search Engine: DuckDuckGo
     * Port: 25565
+    * Local IP: 127.0.0.1
     * DNS Root Server Cluster: L
     * Letter: g
     * Time of day: T̴̡̬̖̫͇̀̓̾h̸͎̣̏̑̔́ͅȩ̵̓̈́̇̉͝ ̸̨͎͕͔̃̈̎́̚W̸̨̥̯̤̔͑i̸͖͔̙̥͊̇t̶̯͌c̵̬͆̾̌̀h̴̪̠̲̐̃̃i̶̼̳̝̹͎͑̆n̷̥͒̈́g̵̙͎̕͜͝ ̷̪̐̅̐͘H̵̗̦̳̅̊̇o̴͎̾̚ͅů̶̘͂̂r̴̛͚̝͇̯͛͘͘
