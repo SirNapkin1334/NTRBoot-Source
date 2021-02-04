@@ -78,7 +78,6 @@ I'm a 15-year-old developer from California.
     * Shape: Pointed Vertical Incline
     * Search Engine: DuckDuckGo
     * Port: 25565
-    * DNS Root Server Cluster: L
     * Letter: g
     * Time of day: T̴̡̬̖̫͇̀̓̾h̸͎̣̏̑̔́ͅȩ̵̓̈́̇̉͝ ̸̨͎͕͔̃̈̎́̚W̸̨̥̯̤̔͑i̸͖͔̙̥͊̇t̶̯͌c̵̬͆̾̌̀h̴̪̠̲̐̃̃i̶̼̳̝̹͎͑̆n̷̥͒̈́g̵̙͎̕͜͝ ̷̪̐̅̐͘H̵̗̦̳̅̊̇o̴͎̾̚ͅů̶̘͂̂r̴̛͚̝͇̯͛͘͘
     * Force: Electromagnetic\
@@ -92,8 +91,6 @@ I'm a 15-year-old developer from California.
     * Minecraft Gradle Plugin: ForgeGradle
     * Minecraft Mod: Patcher
     * ForgeGradle Version: 2.1-SNAPSHOT
-    * Proudest Work: [SmokingEndermen](https://github.com/SirNapkin1334/SmokingEndermen)
-    * Website: https://napkin.tech
   
   *Contact me if you have more ideas!*
     
@@ -111,18 +108,17 @@ I'm a 15-year-old developer from California.
 <details>
   <summary>Special Thanks</summary><br/>
   
-  I don't really like the term "idol" so I prefer to use "Special Thanks", so, in no particular order, Special Thanks to: 
+  I don't really like the term "idol" so I prefer to use "Special Thanks", so, in alphabetical order, Special Thanks to: 
   
   * [asbyth](https://github.com/asbyth)
-  * [FalseHonesty](https://github.com/FalseHonesty)
-  * [Matt](https://github.com/mattco98)
-  * [LlamaLad7](https://github.com/LlamaLad7)
-  * [DJTheRedstoner](https://github.com/DJTheRedstoner)
-  * [littlemissantivirus](https://github.com/littlemissantivirus)
-  * [solonovamax](https://github.com/solonovamax)
-  * [Noctember](https://github.com/Noctember)
+  * [d0k3](https://github.com/d0k3)
   * [Chachy](https://github.com/ChachyDev)
-  * [d0k3](https://github.com/d0k3) 
+  * [DJTheRedstoner](https://github.com/DJTheRedstoner)
+  * [FalseHonesty](https://github.com/FalseHonesty)
+  * [LlamaLad7](https://github.com/LlamaLad7)
+  * [Matt](https://github.com/mattco98)
+  * [Noctember](https://github.com/Noctember)
+  * [solonovamax](https://github.com/solonovamax)
   
   I've most certainly forgotten some people, apologies if I did.
   
