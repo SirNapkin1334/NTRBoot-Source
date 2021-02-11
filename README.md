@@ -119,6 +119,7 @@ I'm a 15-year-old developer from California.
   * [Matt](https://github.com/mattco98)
   * [Noctember](https://github.com/Noctember)
   * [solonovamax](https://github.com/solonovamax)
+  * [Nora](https://github.com/mew)
   
   I've most certainly forgotten some people, apologies if I did.
   
