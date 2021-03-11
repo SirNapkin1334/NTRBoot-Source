@@ -8,7 +8,6 @@ I'm a 15-year-old developer from California.
   * Gender / Sexuality: Straight Male
   * Birthday: 2005-06-24
   * I am a dual citizen of the United States and Germany.
-  * I *hate* Unicode emojis.
   
 </details> 
 
@@ -25,9 +24,7 @@ I'm a 15-year-old developer from California.
 <details>
   <summary>Programming</summary>
   
-  * I mainly use Java and Python.
-  * I know JavaScript, but refuse to give up my opinion that it is an evil demon from hell.
-  * I plan on learning Kotlin and JVM Bytecode. 
+  I mainly use Kotlin and some Java. I use Python occasionally. I know JavaScript but I won't do it for free.
   
 </details>
 
