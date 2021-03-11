@@ -63,42 +63,43 @@ I'm a 15-year-old developer from California.
   <summary>Superlatives</summary><br/>
   
   * Favorite:
-    * Music:
-      * In general, I like Rock and dislike Pop.
-      * Favorite bands: They Might be Giants, Green Day, DragonForce
     * Food:
       * Like: Mexican, Asian, German
       * Dislike: anything spicy
     * License: GPLv3
-    * Voting System: Plural voting
+    * Voting System: Approval voting
     * Color: Purple
     * Shape: Pointed Vertical Incline
     * Search Engine: DuckDuckGo
     * Port: 25565
     * Letter: g
     * Time of day: T̴̡̬̖̫͇̀̓̾h̸͎̣̏̑̔́ͅȩ̵̓̈́̇̉͝ ̸̨͎͕͔̃̈̎́̚W̸̨̥̯̤̔͑i̸͖͔̙̥͊̇t̶̯͌c̵̬͆̾̌̀h̴̪̠̲̐̃̃i̶̼̳̝̹͎͑̆n̷̥͒̈́g̵̙͎̕͜͝ ̷̪̐̅̐͘H̵̗̦̳̅̊̇o̴͎̾̚ͅů̶̘͂̂r̴̛͚̝͇̯͛͘͘
-    * Force: Electromagnetic\
+    * Force: Electromagnetic
     * Alloy: Nb-Ti
     * Date/Time Format: ISO 8601
-    * Regex Engine: Python `regex` module
+    * Regex Engine: Java Patterns
     * Discord Library: `discord.py`
     * Minecraft GUI Libraries for 1.8: Elementa
     * Minecraft Version: 1.8
-    * Minecraft Client: Hyperium 0.23
+    * Minecraft Clients:
+      * 1.8: Forge 11.15.1.2318
+      * 1.12: Forge 14.23.5.2854
+      * 1.13+: Fabric
     * Minecraft Gradle Plugin: ForgeGradle
     * Minecraft Mod: Patcher
     * ForgeGradle Version: 2.1-SNAPSHOT
   
   *Contact me if you have more ideas!*
+  or just like pr it if you know me too well
     
 </details>
 
 <details>
   <summary>Contact Me</summary><br/>
   
-  * Email: sirnapkin@protonmail.com
-  * Discord: @SirNapkin1334#7960 CURRENTLY DISABLED - contact me on `Moiré#8248`
-  * Twitter: @SirNapkin1334
+  * Email: `sir@napkin.tech`
+  * Discord: `@Moiré#8248`
+  * Twitter: `@SirNapkin1334`
   
 </details>
 
@@ -115,9 +116,7 @@ I'm a 15-year-old developer from California.
   * [LlamaLad7](https://github.com/LlamaLad7)
   * [Matt](https://github.com/mattco98)
   * [Noctember](https://github.com/Noctember)
-  * [solonovamax](https://github.com/solonovamax)
   
   I've most certainly forgotten some people, apologies if I did.
   
 </details>
-
