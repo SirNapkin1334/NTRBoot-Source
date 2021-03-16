@@ -24,7 +24,7 @@ I'm a 15-year-old developer from California.
 <details>
   <summary>Programming</summary>
   
-  I mainly use Kotlin and some Java. I use Python occasionally. I know JavaScript but I won't do it for free.
+  I mainly use Kotlin and some Java. I use Python occasionally. 
   
 </details>
 
