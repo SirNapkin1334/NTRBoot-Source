@@ -1,5 +1,4 @@
 ### My name is Moiré, I'm 15 and not French
-<br/><br/>
 
 <details>
   <summary>Statistics</summary><br/>
