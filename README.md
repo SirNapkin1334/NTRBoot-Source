@@ -1,5 +1,4 @@
-### Hello. My name is SirNapkin1334
-my name is moiré, i'm 15 and not french
+### My name is Moiré, I'm 15 and not French
 <br/><br/>
 
 <details>
