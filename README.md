@@ -3,9 +3,9 @@
 <details>
   <summary>Statistics</summary><br/>
   
-  <img alt="GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=SirNapkin1334&show_icons=true&theme=radical&count_private=true&title_color=fff"/>
+  <img alt="GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=Moire9&show_icons=true&theme=radical&count_private=true&title_color=fff"/>
   <br/>
-  <img alt="GitHub Language Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNapkin1334&theme=dark&layout=compact"/>
+  <img alt="GitHub Language Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moire9&theme=dark&layout=compact"/>
   <br/>
   <img alt="WakaTime Stats" width="400px" src="https://wakatime.com/share/@d51ee7f5-180e-4df5-bd67-4a1d46850e7a/fcd25c09-366d-4602-a455-e2f705c244c5.svg"/>
   
